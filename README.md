@@ -1,3 +1,3 @@
-# clone-tabnews
+# Tab News (In Progress)
 
-Clone do projeto Tab News do Felipe Deschamps para o curso https://curso.dev/
+Project built using Next.js and React.
